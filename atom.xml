@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ncfish.github.io</id>
+    <title>光天化昊的博客</title>
+    <link href="https://ncfish.github.io" />
+    <updated>2023-10-15T07:38:19.000Z</updated>
+    <entry>
+        <id>https://ncfish.github.io/2023/10/15/interview1/</id>
+        <title>记录第一次GameJam :)</title>
+        <link rel="alternate" href="https://ncfish.github.io/2023/10/15/interview1/"/>
+        <content type="html">&lt;pre&gt;&lt;code&gt;吉比特GameJam后的一天，写一下第一篇blog来记录一下这不一样的48h。
+
+首先说说感受，第一次参加游戏开发比赛，经验几乎是完全没有的，三天速成的unity并不能让我很熟练地运用工具hh。在coding的过程中感觉到非常局促，好在师兄还是很稳健的，在被带的过程中观察师兄的解决问题方法也让我对工具的使用有了：“哇，原来这些看上去实现很复杂的问题还有这种简单的解决方法”的感觉。看到程序与美工和策划的合作，程序功能实现的团队作用就自然而然的显现了出来，于个人而言，一方面我很喜欢这种解决合作伙伴给出的需求的感觉，另一方面当看到程序在游戏界面中起作用，自己预期的效果被实现时，就好像自己是在拼装属于自己的游戏王国一般。
+虽然开发过程让人兴奋，待学习改进的地方也是有很多的。作为新手还是在一些常用工具的使用上耗费了许多不必要的事件，接下来去需要熟悉的内容有：
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;①Plastic-SCM工具的使用&#34;&gt;&lt;a href=&#34;#①Plastic-SCM工具的使用&#34; class=&#34;headerlink&#34; title=&#34;①Plastic SCM工具的使用&#34;&gt;&lt;/a&gt;①Plastic SCM工具的使用&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;在团队协作的过程中，此类涉及开发版本管理的工具的使用对于同步协调开发还是很重要的，此次就是在这个工具的理解不够导致耗费了相当的时间，需要加强学习。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;②Unity中脚本的定义以及对象等的作用范围&#34;&gt;&lt;a href=&#34;#②Unity中脚本的定义以及对象等的作用范围&#34; class=&#34;headerlink&#34; title=&#34;②Unity中脚本的定义以及对象等的作用范围&#34;&gt;&lt;/a&gt;②Unity中脚本的定义以及对象等的作用范围&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;虽然unity的图形化界面可以让人快速上手一些简单功能的开发，但一般游戏都有的场景交互这种底层的逻辑如果不熟悉是不能快速的编写出对应的代码的，需要更多的实操熟悉方法的种类以及对象作用的范围。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;③及时的沟通与反馈&#34;&gt;&lt;a href=&#34;#③及时的沟通与反馈&#34; class=&#34;headerlink&#34; title=&#34;③及时的沟通与反馈&#34;&gt;&lt;/a&gt;③及时的沟通与反馈&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;对于团队其他成员给出的需求在编写程序的过程需要反复的沟通，查看效果以期达到双方满意的效果，小团队中成员较少，除了策划以外的成员也可以主动进行相互沟通，所以线下工作的氛围和效率毫无疑问都是更好的。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;④人员时间分配&#34;&gt;&lt;a href=&#34;#④人员时间分配&#34; class=&#34;headerlink&#34; title=&#34;④人员时间分配&#34;&gt;&lt;/a&gt;④人员时间分配&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;此次开发事实上关卡原定是五关，但最后却只实现了三关，而且后面几关的背景明显还很粗糙（感觉爆肝的美术dalao的素材有点可惜，早知我也去搭关卡QAQ）。开发中人员时间分配不妥当，出现了美术等待程序实现，策划等待程序的线性开发链，主要还是因为主题在第二天还不是很明确，而后导致关卡的需求也变得不是很明确，有种边想边做的感觉。虽然开发过程中有想法的提出与碰撞，但对于开发来说不确定性似乎会降低效率，人员的职责会变得飘忽不定，出现没事做的情况，对于48h的开发这样的短期活动最好还是调动每个人的能力让每个人都有所发挥。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;结语&#34;&gt;&lt;a href=&#34;#结语&#34; class=&#34;headerlink&#34; title=&#34;结语&#34;&gt;&lt;/a&gt;结语&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;到最后还是如期交上了这份主角看起来比较粗糙，跳起来有点鬼畜，玩法实操起来有点下饭，甚至能左脚踩右脚上天的史莱姆：），不过看到自己参与的游戏能正常运行起来，为开发团队的各位带来欢声笑语，感觉这两天还是很值得的，第一次真正说在游戏开发的视角去考虑玩家的体验，第一次去亲手实现一些简单的功能，这些经验都非常的特别，已经开始期待下一次的开发了，继续努力：）。
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <updated>2023-10-15T07:38:19.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://ncfish.github.io/2023/08/04/test-my-site/</id>
+        <title>test_my_site</title>
+        <link rel="alternate" href="https://ncfish.github.io/2023/08/04/test-my-site/"/>
+        <content type="html"></content>
+        <updated>2023-08-04T08:31:49.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://ncfish.github.io/2023/08/04/hello-world/</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="https://ncfish.github.io/2023/08/04/hello-world/"/>
+        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+</content>
+        <updated>2023-08-04T08:27:43.830Z</updated>
+    </entry>
+</feed>
